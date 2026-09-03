@@ -1,11 +1,16 @@
-# ImageProcessingLab1
+# Image Processing Labs 
 
-NumPy & Image Processing
-NumPy: basic array creation, random numbers, reshaping, and indexing.
+## Student Info
+- Name: Ebtisam Abdulaziz Alshehri
+- ID: 2240003705
 
-Image Loading: read images using OpenCV and PIL, display with matplotlib.
+## Course
+Digital Image Processing
 
-Image Saving: save images using cv2.imwrite() and img.save().
+## Labs Included
+- Sampling & Quantization
+- Image Arithmetic
+- Logical & Set Operations
 
-Image as Array: view image shape and pixel values as NumPy arrays.
-
+## How to Run
+Open the notebooks in Google Colab and run the cells sequentially.
